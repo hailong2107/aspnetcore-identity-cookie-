@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GateWayAdmin", "GateWayAdmin\GateWayAdmin.csproj", "{3EC4B359-E372-43E3-AE9E-D0CA1E0AACAF}"
+EndProject
+Project("{E53339B2-1760-4266-BCC7-CA923CBCF16C}") = "docker-compose", "docker-compose.dcproj", "{B66D75DA-29F8-4633-B22E-F754D425A7D8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3EC4B359-E372-43E3-AE9E-D0CA1E0AACAF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3EC4B359-E372-43E3-AE9E-D0CA1E0AACAF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3EC4B359-E372-43E3-AE9E-D0CA1E0AACAF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3EC4B359-E372-43E3-AE9E-D0CA1E0AACAF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B66D75DA-29F8-4633-B22E-F754D425A7D8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B66D75DA-29F8-4633-B22E-F754D425A7D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B66D75DA-29F8-4633-B22E-F754D425A7D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B66D75DA-29F8-4633-B22E-F754D425A7D8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5B29B00C-0131-4DC1-BE05-DBEA4090EB7F}
+	EndGlobalSection
+EndGlobal
