@@ -15,8 +15,8 @@ node_modules
 obj
 packages
 project.lock.json
-GateWayAdmin/wwwroot/assets
-GateWayAdmin/wwwroot/lib/*
+ASPNetCoreIdentityCookie/wwwroot/assets
+ASPNetCoreIdentityCookie/wwwroot/lib/*
 TestResults
 UpgradeLog*.htm
 UpgradeLog*.XML
